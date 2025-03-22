@@ -1,0 +1,6 @@
+build/
+bin/
+*.spv
+vcpkg-manifest-install.log
+vcpkg_installed/
+.idea/
